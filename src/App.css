@@ -54,3 +54,7 @@ background: linear-gradient(to right, #434343, #000000); /* W3C, IE 10+/ Edge, F
   font-size:  4em;
   padding: 7px;
 }
+
+.buttons-projects{
+  text-align: center;
+}
